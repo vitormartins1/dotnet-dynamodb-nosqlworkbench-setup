@@ -116,3 +116,7 @@ AmazonDynamoDBClient client = new(
         UseHttp = true
     });
 ```
+#### Referências
+
+- [Using LocalStack for Development Environments](https://www.maxcode.net/blog/using-localstack-for-development-environments/)
+- [5 Ways To Query Data From Amazon DynamoDB using .NET](https://www.rahulpnath.com/blog/dynamodb-querying-dotnet/)
